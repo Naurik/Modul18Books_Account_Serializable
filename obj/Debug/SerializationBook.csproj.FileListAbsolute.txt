@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\bin\Debug\SerializationBook.exe.config
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\bin\Debug\SerializationBook.exe
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\bin\Debug\SerializationBook.pdb
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\obj\Debug\SerializationBook.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\obj\Debug\SerializationBook.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\obj\Debug\SerializationBook.exe
+c:\users\acer-pc\source\repos\SerializationBook\SerializationBook\obj\Debug\SerializationBook.pdb
